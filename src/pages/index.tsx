@@ -1,37 +1,29 @@
-import clsx from "clsx";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import Heading from "@theme/Heading";
 
-import styles from "./index.module.css";
 import React from "react";
+import { HomeHeader, HomeLogo } from "@site/static/img/home";
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-      </div>
-    </header>
+    <img src={HomeHeader} height={"200px"} style={{ objectFit: "cover" }} />
   );
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-    >
+    <Layout title={`Home`} description="Coach APP SL Documentation">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+
+      <img
+        src={HomeLogo}
+        style={{
+          objectFit: "cover",
+          width: "180px",
+          alignSelf: "center",
+          marginTop: "24px",
+        }}
+      />
     </Layout>
   );
 }
