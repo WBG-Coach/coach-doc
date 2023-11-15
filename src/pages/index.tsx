@@ -20,17 +20,17 @@ const Docs = [
   {
     img: Tablet,
     label: "How to use Coach app",
-    path: "/docs/intro",
+    path: "/docs/app/installation",
   },
   {
     img: Laptop,
     label: "How to use Admin pannel",
-    path: "",
+    path: "/docs/admin/intro",
   },
   {
     img: SourceCode,
     label: "Source code",
-    path: "",
+    path: "/docs/code/intro",
   },
 ];
 

@@ -57,9 +57,21 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "codeSidebar",
+          sidebarId: "appSidebar",
           position: "left",
           label: "Using the app",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "adminSidebar",
+          position: "left",
+          label: "Using the admin",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "codeSidebar",
+          position: "left",
+          label: "Source code",
         },
         {
           href: "https://download.coachdigital.org",

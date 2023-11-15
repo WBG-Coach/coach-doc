@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Install
@@ -38,4 +38,32 @@ To download the app, the first step is to ensure you have a minimally stable int
 
 Now, all you have to do is monitor the progress and wait for the download to finish before moving on to the next step.
 
-## Installation
+## Installation Guide for Android Application
+
+This guide provides step-by-step instructions on how to install the CoachApp on an Android device.
+
+### Unknown Sources APK Installation:
+
+- Tap on the downloaded APK file.
+- If you see any error about unknown sources, see the topic: [Enabling Unknow Sources](./installation#tip-enable-installation-from-unknown-sources)
+- Read and accept the permissions requested by the application.
+- Tap the "Install" button.
+- Once installed, tap the "Open" button to launch the application.
+
+### Tip: Enable Installation from Unknown Sources
+
+You need to enable installations from unknown sources. Follow these steps:
+
+1. Open the device "Settings."
+2. Navigate to "Security" or "Privacy" settings.
+3. Enable the "Unknown sources" option.
+
+_Note: Be cautious when enabling this option, and only install applications from trusted sources._
+
+## Application Setup
+
+Follow the on-screen [basic usage](./basic-usage/create-a-page) to set up the application, including any account creation or login processes.
+
+**Congratulations!** You have successfully installed CoachApp on your Android device.
+
+_Note: Ensure that you keep the application updated to access the latest features and security improvements._
