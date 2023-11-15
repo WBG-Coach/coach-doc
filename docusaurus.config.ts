@@ -7,8 +7,8 @@ const config: Config = {
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
-  url: "https://your-docusaurus-site.example.com",
-  baseUrl: "/",
+  url: "https://download.coachdigital.org",
+  baseUrl: "/sl/docs",
 
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
