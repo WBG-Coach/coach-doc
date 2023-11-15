@@ -62,7 +62,7 @@ _Note: Be cautious when enabling this option, and only install applications from
 
 ## Application Setup
 
-Follow the on-screen [basic usage](./basic-usage/create-a-page) to set up the application, including any account creation or login processes.
+<!-- Follow the on-screen [basic usage](./basic-usage/create-a-page) to set up the application, including any account creation or login processes. -->
 
 **Congratulations!** You have successfully installed CoachApp on your Android device.
 
