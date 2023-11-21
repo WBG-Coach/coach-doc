@@ -10,7 +10,7 @@ jobs:
     name: Deploy to Nepal server
     runs-on: ubuntu-latest
     env:
-      COUNTY: np
+      COUNTRY: np
     steps:
       - name: 🛎️ Checkout
         uses: actions/checkout@v3

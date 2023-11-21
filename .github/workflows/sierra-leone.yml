@@ -10,7 +10,7 @@ jobs:
     name: Deploy to Sierra Leone server
     runs-on: ubuntu-latest
     env:
-      COUNTY: sl
+      COUNTRY: sl
     steps:
       - name: 🛎️ Checkout
         uses: actions/checkout@v3
