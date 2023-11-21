@@ -1,4 +1,4 @@
-name: Deploy
+name: Nepal - Deploy
 
 on:
   push:
@@ -7,8 +7,10 @@ on:
 
 jobs:
   build:
-    name: Deploy to server
+    name: Deploy to Nepal server
     runs-on: ubuntu-latest
+    env:
+      COUNTY: np
     steps:
       - name: 🛎️ Checkout
         uses: actions/checkout@v3
@@ -20,7 +22,7 @@ jobs:
 
       - name: 🛠️ Install dependencies
         run: npm install
-    
+
       - name: 🚀 Build
         run: npm run build
 
@@ -31,5 +33,5 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.KEY }}
           source: "build"
-          target: "/usr/share/nginx/html/sl/docs"
+          target: "/usr/share/nginx/html/np/docs"
           strip_components: 1

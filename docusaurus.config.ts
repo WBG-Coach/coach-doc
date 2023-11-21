@@ -1,14 +1,15 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+require("dotenv").config();
 
 const config: Config = {
-  title: "Coach Doc",
+  title: `Coach Doc ${process.env.COUNTRY}`,
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
-  url: "https://download.coachdigital.org",
-  baseUrl: "/sl/docs",
+  url: `https://coachdigital.org/`,
+  baseUrl: `/${process.env.COUNTRY}/docs`,
 
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
@@ -74,7 +75,7 @@ const config: Config = {
           label: "Source code",
         },
         {
-          href: "https://download.coachdigital.org",
+          href: `https://coachdigital.org/${process.env.COUNTRY}/download`,
           label: "Download the app",
           position: "right",
         },
