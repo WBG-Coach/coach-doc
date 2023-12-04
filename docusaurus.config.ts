@@ -53,7 +53,7 @@ const config: Config = {
     navbar: {
       logo: {
         alt: "Coach App Logo",
-        src: "img/coach_logo.png",
+        src: `img/coach_logo_${process.env.COUNTRY}.png`,
       },
       items: [
         {

@@ -1,10 +1,9 @@
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-
 import React from "react";
 import {
   HomeHeader,
-  HomeLogo,
+  HomeLogoSL,
+  HomeLogoNP,
   Laptop,
   SourceCode,
   Tablet,
@@ -35,6 +34,10 @@ const Docs = [
 ];
 
 export default function Home(): JSX.Element {
+  const HomeLogo = window.location.href.includes("/np/")
+    ? HomeLogoNP
+    : HomeLogoSL;
+
   return (
     <Layout title={`Home`} description="Coach APP SL Documentation">
       <HomepageHeader />
