@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+```
 # Starting observation
 
 On this screen, you will find detailed information about the professor, but the main focus of this topic is to make you aware of how to initiate a new class observation. Additionally, we aim to explain components to bring you closer to the application.
@@ -17,6 +17,8 @@ In the center of the screen, you will find a blue button with the text "New clas
 ## Edit teacher
 
 If you click on **Edit Teacher**, you will see a form for editing the current teacher, with the same data you used to create it. Be careful when editing a teacher, as these data are shared across devices, so editing on a tablet means that in the next synchronization, other devices will also receive this update.
+
+```
 
 ## List of sessions
 
