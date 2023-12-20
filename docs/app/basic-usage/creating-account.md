@@ -4,7 +4,14 @@ sidebar_position: 2
 
 # Creating a account
 
-After registering a new school, you will need to create an account or select your already created one if you have it. To do this, on the second screen, a list of application accounts is displayed. If yours is not present, you can click on "Create New Profile." When you click, some information will be requested, and it is extremely important that each of these questions be answered truthfully and accurately.
+After registering a new school, you will need to create an account (Coach Profile) or select your already created one if you have it. 
+To do this follow the steps: 
+
+1. On the second screen, after the school selection, a list of Coach Profiles is displayed. If yours is not present, you can click on "Create New Profile". 
+
+![Screenshot of Coach Profile list](/img/creating_account/select_coach_profile.png)
+
+2. After clicking the button, some information will be requested, and it is extremely important that each of these questions be answered truthfully and accurately.
 
 The screen where you will enter this information will be the same or extremely similar to the one below:
 
