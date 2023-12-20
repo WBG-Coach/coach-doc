@@ -20,8 +20,6 @@ After a teacher is created, there are 2 ways to start a class observation with t
 
 1. At the home of the app, search in the teachers list which teacher you would like to start a class observation with.
 
-![Teacher list](/img/home/teachers_list.png)
-
 2. At the teacher profile, click on the "New class observation" button
 
 ![Teacher profile](/img/start_observation/teacher_profile.png)
@@ -37,6 +35,5 @@ After selecting a teacher and starting the class observation, the a timeline of 
 Before starting the observation of the class a preparation is essencial, to help you get ready the app will present 3 tips of good practices for the class observation.
 
 ![Teacher profile](/img/start_observation/preparation_tip.png)
-
 
 Now you have started the Class Observation, the next topic refers to a practical step, the preparation form.
