@@ -30,19 +30,19 @@ To complete the class observation, review the summary of the rating and confirm 
 
 ![Class observation Summary](/img/class_observation/class_observation_summary.png)
 
-## Finishing the class observation
+# Finishing the class observation
 
 Once the class observation is complete, there are 2 options to follow up: start a Coaching Session with the teacher or return to the home of the app.
 
 ![Class observation complete](/img/class_observation/class_observation_complete.png)
 
-### Start Coaching Session
+## Start Coaching Session
 
 If starting a Coaching Session was chosen, the feedback session will be started.
 
 View more about in the Coaching Session topic.
 
-### Return to the home
+## Return to the home
 
 Returning to the home of the app will result in a Incomplete Session, which means an Observation Session was completed but the teacher still didn't receive a feedback about it.
 

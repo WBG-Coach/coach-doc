@@ -11,8 +11,8 @@ There are two ways to start a Coaching Session: right after finishing a class ob
 ## After a class observation
 
 After the class observation is performed, 
-
 ![Class observation complete](/img/class_observation/class_observation_complete.png)
+
 
 ## Incomplete session
 
