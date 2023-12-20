@@ -1,14 +1,14 @@
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-
 import React from "react";
 import {
   HomeHeader,
-  HomeLogo,
+  HomeLogoSL,
+  HomeLogoNP,
   Laptop,
   SourceCode,
   Tablet,
 } from "@site/static/img/home";
+import BrowserOnly from "@docusaurus/BrowserOnly";
 
 function HomepageHeader() {
   return (
@@ -38,16 +38,21 @@ export default function Home(): JSX.Element {
   return (
     <Layout title={`Home`} description="Coach APP SL Documentation">
       <HomepageHeader />
-
-      <img
-        src={HomeLogo}
-        style={{
-          objectFit: "cover",
-          width: "180px",
-          alignSelf: "center",
-          margin: "24px 0px",
-        }}
-      />
+      <BrowserOnly>
+        {() => (
+          <img
+            src={
+              window.location.href.includes("/np/") ? HomeLogoNP : HomeLogoSL
+            }
+            style={{
+              objectFit: "cover",
+              width: "180px",
+              alignSelf: "center",
+              margin: "24px 0px",
+            }}
+          />
+        )}
+      </BrowserOnly>
 
       <div
         style={{
