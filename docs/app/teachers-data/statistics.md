@@ -48,4 +48,4 @@ When you click on the "See details" button in a teaching practice, the statistic
 
 Navigate between Teaching Practices using the arrows next to the Teaching Practice name.
 
-![Teacher profile with previous sessions](/img/teacher_stats_detailed_navigation.png)
+![Teacher profile with previous sessions](/img/teachers_data/teacher_stats_detailed_navigation.png)
