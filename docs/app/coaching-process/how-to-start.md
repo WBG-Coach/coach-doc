@@ -10,9 +10,15 @@ There are two ways to start a Coaching Session: right after finishing a class ob
 
 ## After a class observation
 
-After the class observation is performed, 
+After the class observation is performed, you can choose between starting a Coaching Session or returning to the home of the app
+
 ![Class observation complete](/img/class_observation/class_observation_complete.png)
 
+:::caution This will result in a incomplete session
+
+Choosing return to the home of the app will result in a Incomplete Session and you will need to perform a Coaching Session with the teacher as soon as possible.
+
+:::
 
 ## Incomplete session
 

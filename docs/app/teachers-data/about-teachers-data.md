@@ -14,6 +14,6 @@ Once a teacher who already has other completed sessions has been selected, it is
 
 ## Teacher statistics
 
-After conducting the minimum number of 3 coaching sessions with a teacher, the statistics are unlocked.
+After conducting the **minimum number of 3 coaching sessions** with a teacher, the statistics are unlocked.
 
 With statistics you can visualize the historical evolution of the teacher for each Teaching Practice. This way, it is possible to check whether the teacher has improved or worsened in relation to previous sessions conducted.
