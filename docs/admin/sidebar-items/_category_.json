@@ -1,0 +1,8 @@
+{
+  "label": "Sidebar",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This section contains information about the sidebar divisions and how to use them."
+  }
+}
