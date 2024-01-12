@@ -10,8 +10,8 @@ We request that any improvements be made through Pull Requests, and if you have 
 
 # Links of source code
 
-All the code of Coach is available in the public repo: https://github.com/WBG-Coach
-The app code is: https://github.com/WBG-Coach/coach-app
-The docs code is: https://github.com/WBG-Coach/coach-doc
-The download page code is: https://github.com/WBG-Coach/coach-download
-The admin page code is: https://github.com/WBG-Coach/coach-admin
+All the code of Coach is available in the public repo: https://github.com/WBG-Coach</br>
+The app code is: https://github.com/WBG-Coach/coach-app</br>
+The docs code is: https://github.com/WBG-Coach/coach-doc</br>
+The download page code is: https://github.com/WBG-Coach/coach-download</br>
+The admin page code is: https://github.com/WBG-Coach/coach-admin</br>
