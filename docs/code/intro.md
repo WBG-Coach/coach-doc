@@ -2,46 +2,16 @@
 sidebar_position: 100
 ---
 
-# About the application
+# About the code
 
-Let's discover **Docusaurus in less than 5 minutes**.
+All our applications are available for cloning via SSH on GitHub, in a public organization called WBG-Coach. Each one has its peculiarities, and all its environment variables are in the respective repository files .env.example.
 
-## Getting Started
+We request that any improvements be made through Pull Requests, and if you have any questions, feel free to open Issues. Thank you!
 
-Get started by **creating a new site**.
+# Links of source code
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+All the code of Coach is available in the public repo: https://github.com/WBG-Coach
+The app code is: https://github.com/WBG-Coach/coach-app
+The docs code is: https://github.com/WBG-Coach/coach-doc
+The download page code is: https://github.com/WBG-Coach/coach-download
+The admin page code is: https://github.com/WBG-Coach/coach-admin
