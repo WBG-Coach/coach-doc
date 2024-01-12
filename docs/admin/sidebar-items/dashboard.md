@@ -32,5 +32,4 @@ The targeted improvement areas are the Teaching Practices chosen to be worked on
 
 Below the targeted improment areas graph it is possible to select a Teaching Practice to view more about it. This section presents a more granular overview of how teachers are performing in the region in the time interval chosen for each Teaching Practice.
 
-![Targeted improvement areas](/img/admin_getting_started/admin-dashbord-specific.png)
-
+![Targeted improvement areas](/img/admin_getting_started/admin-dashboard-specific.png)

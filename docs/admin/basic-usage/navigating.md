@@ -12,11 +12,11 @@ Navigation in the Admin Panel is done through the sidebar. It is possible to acc
 
 In the side menu, the card containing user information provides access to settings and logout.
 
-![User resources](/img/admin_getting_started/usar-card.png)
+![User resources](/img/admin_getting_started/user-card.png)
 
 ### Settings
 
-Settings have **account and system-related** functionality. 
+Settings have **account and system-related** functionality.
 
 Account-related resources:
 
@@ -27,9 +27,9 @@ Account-related resources:
 System-related resources:
 
 - Change the language
-- Manage regions and other users*
+- Manage regions and other users\*
 
-**Feature available only for users with higher permission levels.*
+\*_Feature available only for users with higher permission levels._
 
 ![Settings](/img/admin_getting_started/admin-settings.png)
 

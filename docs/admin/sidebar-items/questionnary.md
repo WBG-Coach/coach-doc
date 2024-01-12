@@ -52,7 +52,7 @@ The three-dot-button in each row of the table opens a menu of actions available 
 
 The actions have the following functionalities:
 
-#### View 
+#### View
 
 Opens a drawer that shows the questions in the given teaching practice.
 
@@ -74,7 +74,7 @@ Once selected this feature will hide the teaching practice in the coaches app.
 
 The Coach needs to have access to the internet in the device to sync those modifications.
 
-::: 
+:::
 
 ## Coaching Sessions
 
@@ -109,4 +109,4 @@ Once you click to view the coaching session, a drawer will open with information
 - Teacher's name
 - Assessment of teaching practice questions
 
-![Coaching session details](/img/admin_getting_started/coaching-coaching-sessions-details.png)
+![Coaching session details](/img/admin_getting_started/coaching-sessions-details.png)
