@@ -2,90 +2,84 @@
 sidebar_position: 3
 ---
 
-# Discovering the home page
+# Navigating the Home Screen
 
-The first page you will see is the home screen, where you'll find most of the shortcuts to access the app's functionalities. Due to this screen containing several shortcuts, we will discuss a bit about each component.
+Upon launching the app, the Home Screen is the first thing you'll encounter. This central hub contains shortcuts to various functionalities of the app. Let's delve into each component.
 
-## Horizontal menu
+## Horizontal Menu
 
-In the first section of the home, where you see a horizontal menu, you'll find all the quick actions. These buttons quickly take you to specific screens within the application.
+At the top of the Home Screen, the horizontal menu offers quick access to key features:
 
 ![Homescreen horizontal menu](/img/discovering_home/home_horizontal.png)
 
-The quick actions include:
+These quick actions include:
 
-- **Start a new session:** Initiate a new Class Observation
-- **Coach Script:** Coaches' manual
-- **Pending Sessions:** List of all teachers with a class observation but no feedback
-- **Statistics:** Visualization of statistics for available teachers
-- **Switch Schools:** Option to choose another school
-- **Switch Coach:** Option to choose another coach account
-- **SignOut:** Log out of the application
+- **Start a New Session:** Begins a new Class Observation.
+- **Coach Script:** Access the manual for coaches.
+- **Pending Sessions:** View a list of teachers awaiting feedback post-observation.
+- **Statistics:** Explore statistics related to available teachers.
+- **Switch Schools:** Change between schools.
+- **Switch Coach:** Switch between different coach accounts.
+- **Sign Out:** Log out from the application.
 
-Over time, these functionalities may change, but the logic of this menu always leading quickly to a functionality will remain the same.
+The functionalities of this menu may evolve, but its purpose of providing rapid access to key features remains constant.
 
-## Teachers
+## Teachers Section
 
-After the horizontal menu session, we have the complete list of teachers, with some key information about them, such as:
+Below the horizontal menu is a comprehensive list of teachers, showcasing:
 
-- Number of class observations
-- Date of a class observation
+- The number of class observations per teacher.
+- The date of the last class observation.
 
 ![Homescreen teacher list](/img/discovering_home/teachers_list.png)
 
-If you click on one of these teachers, you will navigate to the detailed view about the teacher, and on this screen, you can create your Class Observation!
+Selecting a teacher navigates to a detailed view, where you can initiate Class Observation.
 
-### Adding new teachers
+### Adding New Teachers
 
-It is possible for coaches to create teachers that still doesn't exist in the system.
-To add a new teacher, follow the steps:
+Coaches can add teachers not yet registered in the system:
 
-1. At the home of the app, in the teachers section, click on the top right button labeled "Add new teacher".
+1. On the Home Screen, in the teachers section, tap "Add New Teacher".
 
-2. After clicking the button you will be redirected to a form to fill informations about the teacher. It is extremely important that each of these questions be answered truthfully and accurately once they will serve to diferentiate the teachers.
+2. You'll be directed to a form to input the teacher's details. Accuracy and truthfulness are crucial as this information is used to distinguish between teachers.
 
-The form contains fields about:
+   The form includes fields for:
 
-- **Name and surname:** The name and surname will be the principal way to identify the teacher, make sure you get them correctly.
-- **Taking pictures:**  You can add a photo to the teacher profile by tapping on 'Take/choose photo'. Adding a photo makes it easier to recognize a teacher in the menu. Ask the teacher to let you take their photo.
-- **EMIS number:** The EMIS number (Education Management Information System) helps identify the teacher. Ask the teacher for this information when you are creating their profile.
-- **Date of birth:** Ask the teacher for their date of birth; this information helps identify the teacher if the EMIS number is unknown.
+   - **Name and Surname:** Primary identifiers of the teacher.
+   - **Taking Pictures:** Optionally add a photo for easier identification.
+   - **EMIS Number:** A unique identifier in the Education Management Information System.
+   - **Date of Birth:** Additional identification detail.
 
+   ![Adding new teacher form](/img/discovering_home/new_teacher_form.png)
 
-![Adding new teacher form](/img/discovering_home/new_teacher_form.png)
+   :::tip
+   If some details are unavailable, you can fill in the essential information and update the profile later.
+   :::
 
-:::tip Tip
+3. Once completed, the new teacher will be available in the Home Screen’s teacher list.
 
-In case you don't know or don't have access to all information in the form, you can fill the required information and later edit the teacher profile in the Editing teacher flow.
+### Editing a Teacher's Profile
 
-:::
+To update a teacher's details:
 
-3. Once all the required information is fulfilled the teacher can be selected in the teacher's list at the home of the app.
+1. From the Home Screen, select the teacher.
+2. In their profile, tap "Edit Teacher".
 
-### Editing a teacher
+   ![Edit teacher button](/img/discovering_home/edit_teacher_button.png)
 
-In case you need to edit or add new information to the teacher profile, you can follow the steps:
+3. Update or fill in the teacher's information.
 
-1. At the home of the app, select the teacher you want to edit the profile.
+   ![Edit teacher form](/img/discovering_home/edit_teacher_form.png)
 
-2. At the teacher profile, click on the "Edit teacher" button.
+4. Finalize by clicking "Edit Teacher".
 
-![Edit teacher button](/img/discovering_home/edit_teacher_button.png)
+## Quick Actions
 
-3. Fill empty fields or edit filled fields with information about the teacher.
+The bottom part of the Home Screen provides shortcuts to specific app views like:
 
-![Edit teacher form](/img/discovering_home/edit_teacher_form.png)
+- Teaching Learning Circles.
+- Pending Sessions.
 
-4. Once you are finished, conclude the process clicking on the "Edit teacher" button.
+![Homescreen quick actions](/img/discovering_home/quick_actions.png)
 
-
-## Quick actions
-
-Finally, the bottom part of the home screen offers the possibility to navigate to other app views that are more specific to your daily life, including:
-
-- Teaching Learning Circles
-- Pending Sessions
-
-![Homescreen teacher list](/img/discovering_home/quick_actions.png)
-
-All these features aim to make it easier for you to use the app by providing views that can be found in other parts of the application with just a few clicks. Don't forget to try each of them and don't be afraid to click! This will bring you greater ease and discovery within the application.
+These features are designed for convenience, offering alternative routes to various app functionalities. Explore each feature for a more streamlined experience.

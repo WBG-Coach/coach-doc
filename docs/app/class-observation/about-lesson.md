@@ -2,16 +2,14 @@
 sidebar_position: 1
 ---
 
-# About the lesson
+# About the Lesson
 
-On the "About the lesson" screen, you will encounter the initial questions for class observation. These questions constitute some of the few open-ended inquiries in the Class Observation. They need to be answered calmly and attentively. Most fields are selectable, except for the Objectives field in the last question.
+The "About the Lesson" screen is where you'll start the Class Observation process. This section includes initial questions that are mostly open-ended and require thoughtful and attentive responses. While most fields are selectable, the Objectives field in the last question is an exception.
 
 ![Screenshot of About the lesson](/img/about_lesson/about_lesson.png)
 
-:::tip Tip
-
-Spare some time with the teacher to complete the form about the lesson.
-
+:::tip Helpful Advice
+Allocate ample time to collaboratively fill out this form with the teacher.
 :::
 
-After completing the form, click on Next, wait for a moment, and you will be directed to the evaluation screen. It's common during this loading process to experience a brief wait as everything appears on the screen. Depending on the device, this process may take up to 2 seconds.
+Once the form is completed, press "Next". You may experience a brief loading period as the evaluation screen prepares to display. This wait time, usually no more than 2 seconds, varies depending on the device's performance.

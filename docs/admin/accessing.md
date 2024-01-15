@@ -2,19 +2,19 @@
 sidebar_position: 0
 ---
 
-# About the application
+# About the Application
 
-The Admin Panel is the system used by the government and people responsible for managing data and information on the Coach Digital app. It is possible:
+The Admin Panel serves as a vital tool for government officials and designated individuals in managing data and information within the Coach Digital app. It offers the following capabilities:
 
-- View data from sessions that Coaches held with teachers
-- View local, regional and national performance data*
-- Create and edit Teaching Practices used by Coaches to evaluate teachers in the coaching process
+- Viewing data from sessions conducted by Coaches with teachers.
+- Accessing performance data at local, regional, and national levels*.
+- Creating and editing Teaching Practices that Coaches use to assess teachers during the coaching process.
 
-**Data region preview availability depends on user permission.*
+*Note: The availability of data previews for different regions is subject to user permissions.*
 
 ## Getting Started
 
-To start using, access the [Admin Panel](https://coachdigital.org/np/admin/) website and enter your registered username and password.
+To begin utilizing the Admin Panel, visit the [Admin Panel website](https://coachdigital.org/np/admin/) and sign in using your registered username and password.
 
 ![Login page](/img/admin_getting_started/admin-login.png)
 

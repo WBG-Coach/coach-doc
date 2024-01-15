@@ -2,18 +2,16 @@
 sidebar_position: 0
 ---
 
-# Teacher's data
+# Analyzing Teacher Data
 
-As classroom observations and feedback are carried out in the application, the corresponding teacher's profile will accumulate data. Use this data to provide richer feedback and better guide teachers in their development.
+As classroom observations and feedback sessions accumulate in the application, a comprehensive data profile is built for each teacher. This data is instrumental in providing insightful feedback and effectively guiding teachers in their professional development.
 
-The teacher profile presents two types of data: previous sessions and teacher statistics.
+A teacher's profile in the app displays two main types of data: Previous Sessions and Teacher Statistics.
 
-## Previous sessions
+## Reviewing Previous Sessions
 
-Once a teacher who already has other completed sessions has been selected, it is possible to view the class rating and feedback from old sessions, therefore, it is possible to see pictures uploaded and actions to improve submitted.
+When selecting a teacher with prior completed sessions, you can access historical data. This includes class ratings, feedback from past sessions, uploaded pictures, and proposed improvement actions.
 
-## Teacher statistics
+## Understanding Teacher Statistics
 
-After conducting the **minimum number of 3 coaching sessions** with a teacher, the statistics are unlocked.
-
-With statistics you can visualize the historical evolution of the teacher for each Teaching Practice. This way, it is possible to check whether the teacher has improved or worsened in relation to previous sessions conducted.
+Teacher statistics become available after completing a **minimum of three coaching sessions** with a teacher. These statistics offer a historical view of the teacher's performance in each Teaching Practice. This feature allows you to track the teacher's progress over time, identifying areas of improvement or decline in comparison to previous sessions.

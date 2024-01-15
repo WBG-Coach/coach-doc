@@ -2,15 +2,16 @@
 sidebar_position: 2
 ---
 
-# Rating competences
+# Rating Competencies
 
-The principal aspect of the class observation is the rating process. On this screen, you can rate the class you are observing based on the Teaching Practices.
+A key element of class observation is the rating process. This section allows you to evaluate the class based on various Teaching Practices.
 
-## How to rate
+## How to Rate
 
-Click on a star to rate a Micro Teaching Practice.
+To rate a Micro Teaching Practice, simply click on a star.
 
-The number of stars corresponds to the value of the rating. Therefore, the lower the number of stars, the lower the score. There are two types of ratings in the app: 3-star and 5-star.
+The number of stars selected reflects the rating level. Fewer stars indicate a lower score. There are two rating scales used in the app: 3-star and 5-star.
+
 For 3-star ratings:
 - 1 star = Low rating
 - 2 stars = Medium rating
@@ -24,28 +25,28 @@ For 5-star ratings:
 
 ![Rating class observation](/img/class_observation/rating_class_observation.png)
 
-## Confirming the class observation
+## Confirming the Class Observation
 
-To complete the class observation, review the summary of the rating and confirm it.
+After rating, review the summary of your evaluations and confirm to complete the observation.
 
 ![Class observation Summary](/img/class_observation/class_observation_summary.png)
 
-# Finishing the class observation
+# Completing the Class Observation
 
-Once the class observation is complete, there are 2 options to follow up: start a Coaching Session with the teacher or return to the home of the app.
+Upon completing the class observation, two follow-up options are available: begin a Coaching Session with the teacher or return to the home screen of the app.
 
 ![Class observation complete](/img/class_observation/class_observation_complete.png)
 
-## Start Coaching Session
+## Starting a Coaching Session
 
-If starting a Coaching Session was chosen, the feedback session will be started.
+Choosing to start a Coaching Session will initiate the feedback process for the teacher.
 
-View more about in the Coaching Session topic.
+More details on this can be found in the Coaching Session section.
 
-## Return to the home
+## Returning to the Home Screen
 
-Returning to the home of the app will result in a Incomplete Session, which means an Observation Session was completed but the teacher still didn't receive a feedback about it.
+Returning to the home screen without providing feedback will result in an Incomplete Session. This indicates that while an Observation Session has been conducted, feedback has yet to be given.
 
-Teachers with incomplete sessions will be displayed with an alert sign at the home of the app.
+Teachers with incomplete sessions will be marked with an alert symbol on the home screen.
 
 ![Home with an incomplete session](/img/incomplete_session/home_incomplete_session.png)

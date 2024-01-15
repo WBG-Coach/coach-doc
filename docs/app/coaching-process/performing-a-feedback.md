@@ -2,26 +2,22 @@
 sidebar_position: 1
 ---
 
-# Performing a feedback
+# Conducting Feedback
 
-Once the Coaching Session has been started, the coach must select the micro-teaching practice for the teacher to work on and register the feedback.
+During the Coaching Session, the coach is responsible for selecting a specific micro-teaching practice for the teacher to focus on and documenting the feedback.
 
-## Selecting a teaching practice to work
+## Choosing a Micro-Teaching Practice
 
-The first part of the coaching session is to define a micro teaching practice to work with the teacher.
-Only **one** micro-teaching practice can be selected per coaching session.
+The initial phase of the coaching session involves selecting a micro-teaching practice for improvement. Note that only **one** micro-teaching practice can be chosen per session.
 
-![Class observation complete](/img/coaching_process/select_micro_teaching_practice.png)
+![Selecting micro-teaching practice](/img/coaching_process/select_micro_teaching_practice.png)
 
-:::tip Tip
-
-It is recommended to select a Teaching Practices that was not worked before and with the lower rating.
-
+:::tip Recommendation
+It's advisable to choose a Teaching Practice that hasn't been previously focused on and has received a lower rating.
 :::
 
-## Registering the feedback
+## Documenting the Feedback
 
-The final step of the coaching session is to register what was discussed with the teacher and the defined actions for improvement.
-The feedback can be input as a photo of the notes taken or by typing in the text input field.
+The culmination of the coaching session is the recording of the discussion and agreed-upon actions for improvement with the teacher. Feedback can be entered either as a photo of handwritten notes or by typing directly into the text input field.
 
-![Class observation complete](/img/coaching_process/feedback_content.png)
+![Feedback documentation](/img/coaching_process/feedback_content.png)

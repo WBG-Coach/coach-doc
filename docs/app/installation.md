@@ -2,68 +2,66 @@
 sidebar_position: 0
 ---
 
-# Install
+# Installation Guide
 
-:::tip A little tip
-
-Try to reproduce this documentation in real time as you read it; this will make it easier to apply the content.
-
+:::tip Suggestion
+To enhance your understanding, try following these installation steps in real-time as you read through this guide.
 :::
 
-## Minimum Requirements
+## Checking Minimum Requirements
 
-Before installing the app, the first step is to ensure that your device meets the minimum requirements to run the application. These minimum requirements are:
+Before installing the app, verify that your device meets the following minimum requirements:
 
-- Android version higher than 4
-- At least 512 MB of RAM
+- Android version 4 or higher.
+- At least 512 MB of RAM.
 
-Different manufacturers may display this information in their own way in various places on the device, but in most cases, you can check these details by navigating to:
-`Settings > About the device` (usually the last option)
+You can usually find this information by navigating to:
+`Settings > About the device` (often the last option).
 
-## How to Download
+## Downloading the App
 
-To download the app, the first step is to ensure you have a minimally stable internet connection, which can be either 3G or 4G. Once you have this connection, follow the steps below:
+Ensure you have a stable internet connection (3G or 4G) before starting the download process:
 
-1. Go to the application's download website located at: [download.coachdigital.org](http://download.coachdigital.org)
+1. Visit the application's download page: [download.coachdigital.org](http://download.coachdigital.org)
 
-![Docusaurus logo](/img/install/url.png)
+   ![Download page](/img/install/url.png)
 
 2. Click on the download button.
 
-![Docusaurus logo](/img/install/download.png)
+   ![Download button](/img/install/download.png)
 
-3. Allow the download into the box.
+3. Grant permission for the download if prompted.
 
-![Docusaurus logo](/img/install/permission.png)
+   ![Download permission](/img/install/permission.png)
 
-Now, all you have to do is monitor the progress and wait for the download to finish before moving on to the next step.
+Monitor the progress until the download is complete.
 
-## Installation Guide for Android Application
+## Android Installation Guide
 
-This guide provides step-by-step instructions on how to install the CoachApp on an Android device.
+This section provides a detailed guide for installing CoachApp on an Android device.
 
-### Unknown Sources APK Installation:
+### Installing an APK from Unknown Sources:
 
-- Tap on the downloaded APK file.
-- If you see any error about unknown sources, see the topic: [Enabling Unknow Sources](./installation#tip-enable-installation-from-unknown-sources)
-- Read and accept the permissions requested by the application.
-- Tap the "Install" button.
-- Once installed, tap the "Open" button to launch the application.
+- Open the downloaded APK file.
+- If prompted about unknown sources, refer to the section: [Enabling Installation from Unknown Sources](./installation#tip-enable-installation-from-unknown-sources).
+- Review and accept the permissions requested by the app.
+- Tap "Install."
+- Once installed, select "Open" to start the app.
 
-### Tip: Enable Installation from Unknown Sources
+### Enabling Installation from Unknown Sources
 
-You need to enable installations from unknown sources. Follow these steps:
+For APK installation, you may need to enable installations from unknown sources:
 
-1. Open the device "Settings."
-2. Navigate to "Security" or "Privacy" settings.
+1. Open "Settings" on your device.
+2. Go to "Security" or "Privacy" settings.
 3. Enable the "Unknown sources" option.
 
-_Note: Be cautious when enabling this option, and only install applications from trusted sources._
+_Caution: Always be careful when enabling this option and download apps only from trusted sources._
 
-## Application Setup
+## Finalizing Setup
 
-<!-- Follow the on-screen [basic usage](./basic-usage/create-a-page) to set up the application, including any account creation or login processes. -->
+After installation, follow the on-screen instructions for initial setup, including account creation or login.
 
-**Congratulations!** You have successfully installed CoachApp on your Android device.
+**Congratulations!** You've successfully installed CoachApp on your Android device.
 
-_Note: Ensure that you keep the application updated to access the latest features and security improvements._
+_Remember to regularly update the app to access the latest features and security enhancements._

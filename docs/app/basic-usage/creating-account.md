@@ -2,21 +2,20 @@
 sidebar_position: 2
 ---
 
-# Creating a account
+# Creating an Account
 
-After registering a new school, you will need to create an account (Coach Profile) or select your already created one if you have it. 
-To do this follow the steps: 
+Once a new school has been registered, you'll need to either create a Coach Profile or select an existing one if you already have it. Follow these steps to proceed:
 
-1. On the second screen, after the school selection, a list of Coach Profiles is displayed. If yours is not present, you can click on "Create New Profile". 
+1. **Selecting or Creating a Coach Profile**: 
+   After choosing a school, a list of Coach Profiles will appear. If your profile isn't listed, select "Create New Profile". 
+   ![Screenshot of Coach Profile list](/img/creating_account/select_coach_profile.png)
 
-![Screenshot of Coach Profile list](/img/creating_account/select_coach_profile.png)
+2. **Entering Profile Information**: 
+   Clicking "Create New Profile" prompts you to enter various details. It's crucial that this information is provided accurately and truthfully.
+   
+   The screen for entering details will resemble the one below, with both optional and mandatory fields. After filling in all necessary information, click on "Create Account".
+   ![Screenshot of SignUp screen](/img/creating_account/signup_screenshot.png)
 
-2. After clicking the button, some information will be requested, and it is extremely important that each of these questions be answered truthfully and accurately.
+Congratulations! Once completed, you'll have full access to the app.
 
-The screen where you will enter this information will be the same or extremely similar to the one below:
-
-![Screenshot of SignUp screen](/img/creating_account/signup_screenshot.png)
-
-On this screen, we have optional and non-optional fields. Once you fill in all the required information, simply click on "Create Account." Congratulations! Now you have full access to the app.
-
-The next topic refers to the screen you are currently viewing, the home screen. If you have any questions, don't hesitate to consult it.
+The following topic covers the Home Screen, the current view you're on. If you encounter any issues or have questions, please refer to the relevant section for guidance.
