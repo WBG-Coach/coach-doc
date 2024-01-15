@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Starting a New Class Observation
+# Starting a New Teaching Observation
 
 Once a teacher is registered, there are two methods to initiate a class observation: via the Horizontal Menu or by selecting the teacher from the teachers list.
 
