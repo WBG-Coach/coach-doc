@@ -124,7 +124,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: ``,
+      copyright: `Footer`,
     },
     prism: {
       theme: prismThemes.github,
