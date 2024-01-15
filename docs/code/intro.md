@@ -2,16 +2,18 @@
 sidebar_position: 100
 ---
 
-# About the code
+# Source Code Overview
 
-All our applications are available for cloning via SSH on GitHub, in a public organization called WBG-Coach. Each one has its peculiarities, and all its environment variables are in the respective repository files .env.example.
+Our suite of applications, hosted under the public GitHub organization "WBG-Coach," is open for cloning via SSH. Each application has its unique aspects, and you can find the environment variables for each in the `.env.example` files in their respective repositories.
 
-We request that any improvements be made through Pull Requests, and if you have any questions, feel free to open Issues. Thank you!
+We encourage contributions through Pull Requests. If you encounter any issues or have queries, please don't hesitate to open Issues on GitHub. We appreciate your involvement and feedback!
 
-# Links of source code
+# Repository Links
 
-All the code of Coach is available in the public repo: https://github.com/WBG-Coach<br/>
-The app code is: https://github.com/WBG-Coach/coach-app<br/>
-The docs code is: https://github.com/WBG-Coach/coach-doc<br/>
-The download page code is: https://github.com/WBG-Coach/coach-download<br/>
-The admin page code is: https://github.com/WBG-Coach/coach-admin<br/>
+Find below the links to the various components of the Coach project on GitHub:
+
+- **Main Coach Repository**: [https://github.com/WBG-Coach](https://github.com/WBG-Coach)
+- **Coach App Source Code**: [https://github.com/WBG-Coach/coach-app](https://github.com/WBG-Coach/coach-app)
+- **Coach Documentation Source Code**: [https://github.com/WBG-Coach/coach-doc](https://github.com/WBG-Coach/coach-doc)
+- **Coach Download Page Source Code**: [https://github.com/WBG-Coach/coach-download](https://github.com/WBG-Coach/coach-download)
+- **Coach Admin Page Source Code**: [https://github.com/WBG-Coach/coach-admin](https://github.com/WBG-Coach/coach-admin)

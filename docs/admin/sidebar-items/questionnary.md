@@ -2,111 +2,105 @@
 sidebar_position: 1
 ---
 
-# Questionnary
+# Questionnaire
 
-The questionnary area contains features and information about Teaching Practices questions. They are divided into the **Teaching Practices** and **Coaching Sessions** pages.
+The Questionnaire section offers tools and information related to Teaching Practices questions, divided into **Teaching Practices** and **Coaching Sessions** pages.
 
 ## Teaching Practices
 
-This page contains the main features for managing Teaching Practices and questions that are answered by Coaches in the Class Observation process.
+This page provides tools for managing Teaching Practices and their associated questions, used by Coaches during the Class Observation process.
 
-In this page is possible to:
+Features available on this page include:
 
-- Add new teaching practices
-- Download the page's data
-- View questions in each teaching practice
-- Edit an existing teaching practices
-- Deactivate or active a teaching practice
+- Adding new Teaching Practices.
+- Downloading data from the page.
+- Viewing questions under each Teaching Practice.
+- Editing existing Teaching Practices.
+- Activating or deactivating a Teaching Practice.
 
 ![Teaching Practices page](/img/admin_getting_started/teaching-practices-page.png)
 
-### Downloading page's data
+### Downloading Data
 
-To download the page's data tap at the "Download data" button at the top right of the screen.
+To download data from the page, click the "Download data" button at the top right of the screen.
 
 ![Teaching Practices page's button](/img/admin_getting_started/teaching-practices-buttons.png)
 
-### Add new teaching practices
+### Adding New Teaching Practices
 
-To add a new teaching practice, tap the "Add new teaching practice" button at the top right of the screen.
-
-The button will open a drawer, where it is possible to add a name, a question and description to the question.
+To add a new Teaching Practice, click the "Add new teaching practice" button at the top right. This opens a form to input the practice's name, a question, and a description.
 
 ![New Teaching Practice](/img/admin_getting_started/teaching-practices-new-tp.png)
 
-Once the first question is saved ou can:
+After saving the first question, you can:
 
-- Edited the question created
-- Delete the question created
-- Add a new question
+- Edit the created question.
+- Delete the created question.
+- Add additional questions.
 
 ![Adding questions](/img/admin_getting_started/teaching-practices-add-question.png)
 
-Once all questions have been added, click the "Save" button to save the new teaching practice.
+Click "Save" to finalize the new Teaching Practice.
 
-### Actions in teaching practices
+### Managing Teaching Practices
 
-The three-dot-button in each row of the table opens a menu of actions available of the teaching practice.
+The three-dot-button beside each Teaching Practice opens a menu with available actions.
 
 ![Teaching Practices' actions](/img/admin_getting_started/teaching-practices-actions.png)
 
-The actions have the following functionalities:
+Actions include:
 
 #### View
 
-Opens a drawer that shows the questions in the given teaching practice.
+Displays the questions associated with the selected Teaching Practice.
 
 ![Teaching Practices' actions](/img/admin_getting_started/teaching-practices-view.png)
 
 #### Edit
 
-Opens a drawer that allows the user to change the teaching practice's name and their questions.
+Allows editing of the Teaching Practice's name and questions.
 
 ![Teaching Practices' actions](/img/admin_getting_started/teaching-practices-edit.png)
 
 #### Activate/Deactivate
 
-Once selected this feature will hide the teaching practice in the coaches app.
+This feature toggles the visibility of the Teaching Practice in the coaches' app.
 
 ![Teaching Practices' actions](/img/admin_getting_started/teaching-practices-inactive.png)
 
-:::warning Connection required
-
-The Coach needs to have access to the internet in the device to sync those modifications.
-
+:::warning Connection Required
+Coaches must be online to sync these modifications.
 :::
 
 ## Coaching Sessions
 
-The coaching sessions page presents a table of each teaching practice performed.
+This page displays a table detailing each Teaching Practice session, including:
 
-The table contains:
-
-- School name
-- Coach's name
-- Teacher's name
-- Subject of the class
-- If a feedback was given afterwards
+- School name.
+- Coach's name.
+- Teacher's name.
+- Subject of the class.
+- Whether feedback was given.
 
 ![Coaching sessions page](/img/admin_getting_started/coaching-sessions-page.png)
 
-### Downloading page's data
+### Downloading Data
 
-To download the page's data tap at the "Download data" button at the top right of the screen.
+To download the data, click the "Download data" button at the top right of the screen.
 
 ![Teaching Practices page's button](/img/admin_getting_started/coaching-sessions-button.png)
 
-### View coaching session
+### Viewing Coaching Sessions
 
-The three-dot-button in each row of the table opens a menu of actions available of the coaching session.
+Clicking the three-dot-button in each row opens a menu with options for that coaching session.
 
 ![Coaching sessions' actions](/img/admin_getting_started/coaching-sessions-actions.png)
 
-Once you click to view the coaching session, a drawer will open with informations about the session, such as:
+Selecting "View" opens a drawer with details of the session, such as:
 
-- School's name
-- Coach's name
-- Teacher's name
-- Assessment of teaching practice questions
+- School's name.
+- Coach's name.
+- Teacher's name.
+- Responses to Teaching Practice questions.
 
 ![Coaching session details](/img/admin_getting_started/coaching-sessions-details.png)
