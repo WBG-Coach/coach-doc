@@ -22,7 +22,7 @@ You can usually find this information by navigating to:
 
 Ensure you have a stable internet connection (3G or 4G) before starting the download process:
 
-1. Visit the application's download page: [download.coachdigital.org](http://download.coachdigital.org)
+1. Visit the application's download page: [coachdigital.org](http://coachdigital.org)
 
    ![Download page](/img/install/url.png)
 
