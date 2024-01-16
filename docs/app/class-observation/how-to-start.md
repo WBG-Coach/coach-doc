@@ -10,11 +10,11 @@ Once a teacher is registered, there are two methods to initiate a class observat
 
 1. On the Home Screen, tap the "Start New Session" card.
 
-   ![Horizontal menu](/img/home/home_header.png)
+![Horizontal menu](/img/discovering_home/home_horizontal.png)
 
 2. Choose a teacher to begin the class observation.
 
-   ![Select a teacher to start a new session](/img/start_observation/select_teacher_new_session.png)
+![Select a teacher to start a new session](/img/start_observation/select_teacher_new_session.png)
 
 ## Selecting a Teacher from the Home Screen
 
