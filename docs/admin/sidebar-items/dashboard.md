@@ -4,33 +4,32 @@ sidebar_position: 0
 
 # Dashboard
 
-The dashboard contains general data about a region over a specified period of time.
+The Dashboard provides an overview of regional data over a specified time frame.
 
 ## Filters
 
-The dashboard has filters that can be applied to select more specific information about regions, districts and municipalities, in addition, there is the possibility of determining the period for which you want to obtain the data.
+To tailor the data, the Dashboard includes filters for selecting specific regions, districts, and municipalities. Additionally, users can define the time period for which they wish to retrieve data.
 
 ![Dashboard filters](/img/admin_getting_started/admin-dashboard-filters.png)
 
-## Data sections
+## Data Sections
 
-It is possible to view data about: Engagement, Targeted improvement areas, Specific data for each Teaching Practice.
+The Dashboard allows viewing data on Engagement, Targeted Improvement Areas, and Specific Data for each Teaching Practice.
 
 ### Engagement
 
-The engagement data points out information about coaches and teachers activities for the chosen region in the given time.
+This section offers insights into the activities of coaches and teachers in the selected region for the specified time period.
 
 ![Engagement section](/img/admin_getting_started/admin-dashboard-engagement.png)
 
-### Targeted improvement areas
+### Targeted Improvement Areas
 
-The targeted improvement areas are the Teaching Practices chosen to be worked on with teachers. This information highlights which teaching practices teachers face the most difficulty in being better.
+This area focuses on the Teaching Practices identified for enhancement with teachers. It highlights the practices where teachers most commonly struggle and need improvement.
 
 ![Targeted improvement areas](/img/admin_getting_started/admin-dashbord-targeted.png)
 
-### Specific data for each Teaching Practice
+### Specific Data for Each Teaching Practice
 
-Below the targeted improment areas graph it is possible to select a Teaching Practice to view more about it. This section presents a more granular overview of how teachers are performing in the region in the time interval chosen for each Teaching Practice.
+Located below the Targeted Improvement Areas graph, this feature allows users to select a Teaching Practice to examine in more detail. It provides a granular view of teacher performance in the chosen region and time interval for each specific Teaching Practice.
 
-![Targeted improvement areas](/img/admin_getting_started/admin-dashbord-specific.png)
-
+![Targeted improvement areas](/img/admin_getting_started/admin-dashboard-specific.png)

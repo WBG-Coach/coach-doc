@@ -4,112 +4,95 @@ sidebar_position: 2
 
 # Data
 
-The data area contains more dense information about schools and sessions performed with the teacher. They are divided into the **Schools**, **Coaching activity** and **Sync log** pages.
+The Data section provides detailed information about schools and coaching sessions with teachers. It is organized into **Schools**, **Coaching Activity**, and **Sync Log** sections.
 
 ## Schools
 
-This page contains the main features for managing Schools.
+This section is dedicated to managing school-related data. Features include:
 
-In this page is possible to:
-
-- Add new schools
-- Download the page's data
-- Import data from a database
-- Generate school's QR code
-- Edit an existing school
-- Delete a school
+- Adding new schools.
+- Downloading data from the current page.
+- Importing data from a database.
+- Generating a QR code for a school.
+- Editing existing school details.
+- Deleting a school.
 
 ![Teaching Practices page](/img/admin_getting_started/schools-page.png)
 
-### Downloading page's data & Importing data
+### Downloading and Importing Data
 
-The "import data" button allows you to select a CSV file from the computer.
+- **Import Data**: Use the "Import Data" button to upload a CSV file from your computer.
+- **Download Data**: Click the "Download Data" button to initiate the download of an XLSX file.
 
-The "Download data" button starts a download of a XLSX file to the computer. 
-
-To use these functionalities, use the buttons at the top right of the screen.
+These options are accessible via buttons located at the top right of the screen.
 
 ![Schools page's button](/img/admin_getting_started/schools-buttons.png)
 
-### Add new school
+### Adding a New School
 
-To add a new school, tap the "New school" button at the top right of the screen.
-
-The button will open a drawer, where it is possible to add the name of the school, its EMIS number and region.
+Click the "New School" button at the top right of the screen to add a new school. A form will appear where you can enter the school's name, EMIS number, and region.
 
 ![New Teaching Practice](/img/admin_getting_started/add-school.png)
 
-### Actions in schools
+### Managing Schools
 
-The three-dot-button in each row of the table opens a menu of actions available of the school.
+Each school entry has a three-dot-button that reveals available actions for that school.
 
 ![School's actions](/img/admin_getting_started/schools-actions.png)
 
-The actions have the following functionalities:
+#### Generate QR Code
 
-#### Generate QR code 
-
-Opens a screen that shows the QR code of the school.
-The QR code is used by Coaches to setup their device with the school's data, this screen shoud be printed and displayed at schools so Coaches can setup the app.
+Generates a QR code for the school, useful for Coaches to quickly set up their devices with the school's data. The QR code should be printed and made available for use at the school.
 
 ![QR code screen](/img/admin_getting_started/schools-qr-code.png)
 
-#### Edit
+#### Edit School Details
 
-Opens a drawer that allows the user to change the school's name, EMIS and regions.
+Allows editing of the school's name, EMIS number, and region.
 
 ![Editing a school](/img/admin_getting_started/schools-edit.png)
 
-#### Delete
+#### Delete School
 
-Opens a modal confirming the action. Once deleted the school is removed from the list.
+Initiates a confirmation modal. Once confirmed, the school is permanently removed.
 
 :::danger Irreversible action
-
-Be careful, this action is permanent and irreversible.
-
+This is a permanent and irreversible action.
 :::
 
 ![Deleting a school](/img/admin_getting_started/schools-delete.png)
 
+## Coaching Activity
 
-## Coaching activity
+This page displays a table summarizing coaching sessions at each school, including:
 
-The coaching activity page presents a table of coaching sessions performed in each school.
-
-The table contains:
-
-- School name
-- Number of coaches in the school
-- Number of teachers that were coached
-- Number of feedback sessions
-- The distribution of coaching sessions in a range of: 0-30, 30-60, 60-90, 90+ days
+- School name.
+- Number of coaches.
+- Number of teachers coached.
+- Number of feedback sessions.
+- Distribution of coaching sessions across time ranges: 0-30, 30-60, 60-90, 90+ days.
 
 ![Coaching sessions page](/img/admin_getting_started/coaching-activity-page.png)
 
-## Sessions data
+## Sessions Data
 
-The sessions data page presents a table of feedback sessions performed in each school.
+This page offers a detailed view of feedback sessions at each school, featuring:
 
-The table contains:
-
-- School name
-- Number of coaches in the school
-- Number of teachers that were coached
-- Number of feedback sessions
-- The average rating of each Teaching Practice in the school
+- School name.
+- Number of coaches.
+- Number of teachers coached.
+- Number of feedback sessions.
+- Average rating of each Teaching Practice at the school.
 
 ![Coaching sessions page](/img/admin_getting_started/sessions-data-page.png)
 
-## Sync log
+## Sync Log
 
-The sync log page presents a table with information about the synchronization of the devices.
+The Sync Log page provides details about device synchronization, including:
 
-The table contains:
-
-- Android version
-- Device model
-- Device ID
-- Date and time of the last update
+- Android version.
+- Device model.
+- Device ID.
+- Date and time of the last update.
 
 ![Coaching sessions page](/img/admin_getting_started/sync-log-page.png)

@@ -2,50 +2,53 @@
 sidebar_position: 2
 ---
 
-# Statistics
+# Teacher Statistics
 
-After conducting the minimum number of 3 coaching sessions with a teacher, the statistics is unlocked.
+Statistics become available after completing at least three coaching sessions with a teacher.
 
-To view a teacher's statistics, follow the steps:
+To view a teacher's statistics:
 
-1. Select a teacher at the home of the app and click to view their profile.
+1. **Access Teacher Profile**:
+   From the home screen, select a teacher and view their profile.
 
-2. At the teacher profile, change the tab to Teacher's stats
+2. **Navigate to Teacher Stats**:
+   Switch to the 'Teacher's Stats' tab within the teacher's profile.
 
-![Teacher profile with previous sessions](/img/teachers_data/teacher_profile_tabs.png)
+   ![Teacher profile with statistics tab](/img/teachers_data/teacher_profile_tabs.png)
 
-3. In the teacher's stats it is possible to view:
+3. **Review Statistical Data**:
+   In the stats section, you can examine:
 
-- Teacher's overall rating
-- Teacher's evolution in the Teaching Practices
-- Detailed data in each Teaching Practices
+   - The teacher's overall rating.
+   - The teacher's progress in each Teaching Practice.
+   - Detailed data for individual Teaching Practices.
 
-![Teacher profile with previous sessions](/img/teachers_data/teacher_profile_stats.png)
+   ![Teacher statistics overview](/img/teachers_data/teacher_profile_stats.png)
 
-## Teacher overall rating
+## Teacher Overall Rating
 
-The overall rating represents the teacher's average of all Teaching Practices in the last observation performed. This information shows the current status of the teacher.
+The overall rating reflects the teacher's average across all Teaching Practices in the most recent observation. This metric indicates the teacher's current performance level.
 
-![Teacher profile with previous sessions](/img/teachers_data/overall_rating.png)
+![Teacher overall rating](/img/teachers_data/overall_rating.png)
 
-## Teacher evolution
+## Teacher Evolution
 
-Ainda no perfil do professor, é possível visualizar a evolução simplificada do professor em cada Teaching Practice. Esta seção informa se houve melhoria ou piora na Teaching Practice desde a última sessão.
+In the teacher's profile, a simplified evolution of performance in each Teaching Practice is also displayed. This section provides insights into improvements or declines since the last session.
 
-![Teacher profile with previous sessions](/img/teachers_data/teacher_evolution.png)
+![Teacher evolution in practices](/img/teachers_data/teacher_evolution.png)
 
-## Detailed data in each Teaching Practices
+## Detailed Data for Each Teaching Practice
 
-When you click on the "See details" button in a teaching practice, the statistics detail screen for that Teaching Practice will be displayed. In this screen you can:
+By clicking "See details" on a specific Teaching Practice, a detailed statistical page opens. Here, you can:
 
-- Navigate between teaching practices
-- View evolution graph for the corresponding Teaching Practice
-- View rating in each session for the corresponding Teaching Practice
+- Switch between different Teaching Practices.
+- View an evolution graph for each Teaching Practice.
+- See ratings from each session for the selected Teaching Practice.
 
-![Teacher profile with previous sessions](/img/teachers_data/teacher_stats_detailed.png)
+![Detailed Teaching Practice statistics](/img/teachers_data/teacher_stats_detailed.png)
 
-### How to change between Teaching Practices
+### Navigating Between Teaching Practices
 
-Navigate between Teaching Practices using the arrows next to the Teaching Practice name.
+To switch between Teaching Practices, use the arrows adjacent to the name of the Teaching Practice.
 
-![Teacher profile with previous sessions](/img/teacher_stats_detailed_navigation.png)
+![Navigating between Teaching Practices](/img/teachers_data/teacher_stats_detailed_navigation.png)

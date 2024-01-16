@@ -2,32 +2,34 @@
 sidebar_position: 1
 ---
 
-# Previous sessions
+# Accessing Previous Sessions
 
-To view a previous session, follow the steps: 
+To examine details from a previous session, here are the steps to follow:
 
-1. Select a teacher at the home of the app and click to view their profile.
+1. **Select a Teacher**:
+   Go to the home screen of the app and click on a teacher's profile to view it.
 
-In the teacher profile, the sessions will be ordered from most recent to oldest and present some relevante information such as:
+   Within the profile, sessions are listed chronologically from the most recent to the oldest. Each session includes relevant information such as:
 
-- Session number
-- Creation date
-- How the teacher is performing bases on their average rating of the teaching practices
+   - Session number.
+   - Creation date.
+   - Teacher's average rating across Teaching Practices.
 
-![Teacher profile with previous sessions](/img/teachers_data/teacher_profile_with_sessions.png)
+   ![Teacher profile with previous sessions](/img/teachers_data/teacher_profile_with_sessions.png)
 
-2. Select a session to view details.
+2. **Choose a Specific Session**:
+   Click on a session to view more details about it.
 
-![Previous session selected](/img/teachers_data/previous_session.png)
+   ![Previous session selected](/img/teachers_data/previous_session.png)
 
-3. Select which details you want to see
+3. **Review Session Details**:
 
-Once a session has been selected, it is possible to view both the class evaluation and the feedback provided.
+   After selecting a session, you can access detailed evaluations and feedback:
 
-- **Classroom evaluation:** If you choose to view the class evaluation, you will be presented with the summary of the ratings you made during the Class Observation process.
+   - **Classroom Evaluation**: Viewing the class evaluation presents a summary of the ratings assigned during the Class Observation process.
 
-![Previous classroom observation](/img/teachers_data/previous_observation.png)
+     ![Previous classroom observation](/img/teachers_data/previous_observation.png)
 
-- **Feedback provided:** If you choose to view feedback, you will be presented with the text input and/or photo submitted during the Coaching Session.
+   - **Feedback Provided**: Opting to view feedback shows the text or photo feedback submitted in the Coaching Session.
 
-![Previous feedback provided](/img/teachers_data/previous_feedback.png)
+     ![Previous feedback provided](/img/teachers_data/previous_feedback.png)

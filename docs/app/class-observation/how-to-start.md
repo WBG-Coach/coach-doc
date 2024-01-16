@@ -2,41 +2,38 @@
 sidebar_position: 0
 ---
 
-# Starting a new class observation
+# Starting a New Teaching Observation
 
-After a teacher is created, there are 2 ways to start a class observation with them: through the Horizontal Menu or by selecting the teacher in the teachers list.
+Once a teacher is registered, there are two methods to initiate a class observation: via the Horizontal Menu or by selecting the teacher from the teachers list.
 
-## In the horizontal menu
+## Using the Horizontal Menu
 
-1. At the home of the app, click on the "Start new session" card
+1. On the Home Screen, tap the "Start New Session" card.
 
 ![Horizontal menu](/img/discovering_home/home_horizontal.png)
 
-2. Select a teacher to start a class observation with.
+2. Choose a teacher to begin the class observation.
 
 ![Select a teacher to start a new session](/img/start_observation/select_teacher_new_session.png)
 
-## Selecting a teacher at home
+## Selecting a Teacher from the Home Screen
 
-1. At the home of the app, search in the teachers list which teacher you would like to start a class observation with.
+1. Navigate to the teachers list on the Home Screen and select the teacher with whom you want to start a class observation.
 
-![Teacher list](/img/home/teachers_list.png)
+2. In the teacher's profile, click the "New Class Observation" button.
 
-2. At the teacher profile, click on the "New class observation" button
+   ![Teacher profile](/img/start_observation/teacher_profile.png)
 
-![Teacher profile](/img/start_observation/teacher_profile.png)
+# Overview of the Coaching Process
 
-# Coaching process overview
+Upon selecting a teacher and commencing the class observation, a timeline of the Coaching Process will appear, outlining the steps you'll be following.
 
-After selecting a teacher and starting the class observation, the a timeline of the Coaching Process will be displayed to provide an overview of the steps you are going to go through.
-
-![Teacher profile](/img/start_observation/coaching_process_overview.png)
+![Coaching process overview](/img/start_observation/coaching_process_overview.png)
 
 # Preparation
 
-Before starting the observation of the class a preparation is essencial, to help you get ready the app will present 3 tips of good practices for the class observation.
+Proper preparation is essential before observing a class. To assist you, the app provides three tips for best practices during class observation.
 
-![Teacher profile](/img/start_observation/preparation_tip.png)
+![Preparation tips](/img/start_observation/preparation_tip.png)
 
-
-Now you have started the Class Observation, the next topic refers to a practical step, the preparation form.
+With the Class Observation now underway, the next topic will guide you through the practical steps, starting with the preparation form.

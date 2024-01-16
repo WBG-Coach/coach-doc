@@ -21,16 +21,19 @@ const Docs = [
     img: Tablet,
     label: "How to use Coach app",
     path: "/docs/app/installation",
+    winPath: "docs/app/installation",
   },
   {
     img: Laptop,
     label: "How to use Admin pannel",
     path: "/docs/admin/intro",
+    winPath: "docs/admin/intro",
   },
   {
     img: SourceCode,
-    label: "Source code",
+    label: "Developer documentation",
     path: "/docs/code/intro",
+    winPath: "docs/code/intro",
   },
 ];
 
@@ -75,6 +78,7 @@ export default function Home(): JSX.Element {
               flexDirection: "column",
               alignItems: "center",
             }}
+            onClick={() => (window.location.href = doc.winPath)}
           >
             <div
               style={{
