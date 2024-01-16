@@ -10,7 +10,7 @@ After a teacher is created, there are 2 ways to start a class observation with t
 
 1. At the home of the app, click on the "Start new session" card
 
-![Horizontal menu](/img/home/home_header.png)
+![Horizontal menu](/img/discovering_home/home_horizontal.png)
 
 2. Select a teacher to start a class observation with.
 
