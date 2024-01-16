@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Building
+# Generate the first AAB
 
 ## Publishing on Google Play Store
 

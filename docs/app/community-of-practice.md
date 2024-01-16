@@ -4,62 +4,62 @@ sidebar_position: 6
 
 # Community of Practice (CoP)
 
-The CoP is the third step of Coach. It is conducted by the Head Teacher and can be supported by Lead Teachers.
+The Community of Practice (CoP) is the third phase in the Coaching process, typically led by the Head Teacher and supported by Lead Teachers.
 
-At this stage, all teachers come together to reflect on the positive and negative points they had during the Coaching process and define strategies together to improve.
+This stage brings all teachers together to reflect on their experiences during the Coaching process, discussing both successes and challenges, and collaboratively developing strategies for improvement.
 
-### Starting a Community of Practice
+### Initiating a Community of Practice
 
-To start a Community of Practice, go to the **home of the app** and, in the tab bar at the bottom of the screen, select the Community of Practice item.
+To start a CoP session:
 
-![Class observation complete](/img/community_of_practice/home.png)
+1. **Navigate to CoP Section**: From the home screen of the app, select the 'Community of Practice' option in the bottom tab bar.
 
-### Reviewing the steps
+   ![Accessing CoP from home screen](/img/community_of_practice/home.png)
 
-Before starting a Community of Practice, the app will present the steps of the activity.
+### Reviewing CoP Steps
 
-![Class observation complete](/img/community_of_practice/start.png)
+Before beginning, the app outlines the steps involved in conducting a CoP session.
 
-### Checking stats
+![CoP start overview](/img/community_of_practice/start.png)
 
-In this step, the app will show to the teacher conducting the activity the school's stats. This way, the head teacher will know what the main focuses of the Community of Practice should be.
+### Examining School Stats
 
-![Class observation complete](/img/community_of_practice/check-stats.png)
+This phase presents the school's statistics to the facilitator, helping the Head Teacher identify key focus areas for the CoP session.
 
+![Checking school statistics](/img/community_of_practice/check-stats.png)
 
-### Reflection exercise
+### Reflection Exercise
 
-The participants must reflect, share and take note of insights about good practices of teaching. The notes must be inputed in the app.
+Participants are encouraged to reflect, share, and record insights about effective teaching practices.
 
-![Class observation complete](/img/community_of_practice/insights.png)
+- **Documenting Insights**: Notes should be entered directly into the app.
 
-#### Uploading a photo
+  ![Recording insights](/img/community_of_practice/insights.png)
 
-It is possible to upload a photo instead of typing. To upload a file, tap at the "Upload a photo" button and select if you want to take a picture with the camera or select a photo at the gallery.
+- **Uploading Photos**: Optionally, photos can be uploaded by tapping "Upload a photo" and choosing from the camera or gallery.
 
-![Class observation complete](/img/community_of_practice/insights-1.png)
+  ![Uploading insights photo](/img/community_of_practice/insights-1.png)
 
-### Sharing positives
+### Sharing Positive Strategies
 
-The participants can share and highlight some good strategies they have being using at the classroom. The notes must be inputed in the app.
+Teachers share and document positive strategies they've implemented in their classrooms.
 
-![Class observation complete](/img/community_of_practice/positives.png)
+![Sharing positive strategies](/img/community_of_practice/positives.png)
 
-### Improvements
+### Discussing Improvements
 
-The participants must reflect, share and take note of insights about what needs improvement. The notes must be inputed in the app.
+This step involves reflecting and noting areas requiring improvement.
 
-![Class observation complete](/img/community_of_practice/improvements.png)
+![Noting areas for improvement](/img/community_of_practice/improvements.png)
 
-### Next steps
+### Defining Next Steps
 
-At the final part, the participants must discuss and define some actions to achieve improvement in what was poited out at the previous step. The notes must be inputed in the app.
+In the final part, participants discuss and agree on actions for improvement, based on the previous discussions.
 
-![Class observation complete](/img/community_of_practice/improvements.png)
+![Defining next steps](/img/community_of_practice/improvements.png)
 
-### CoP complete
+### Completing the CoP Session
 
-Once participants complete all steps, the Community of Practice will come to an end and teachers will have to apply the action plan in their day-to-day practice.
+Upon completing all steps, the CoP session concludes. Teachers are then expected to apply the formulated action plan in their daily teaching practices.
 
-![Class observation complete](/img/community_of_practice/finish.png)
-
+![CoP completion](/img/community_of_practice/finish.png)

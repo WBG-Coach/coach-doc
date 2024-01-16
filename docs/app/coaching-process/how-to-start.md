@@ -2,34 +2,34 @@
 sidebar_position: 0
 ---
 
-# Starting Coaching sessions
+# Initiating Coaching Sessions
 
-Once the class observation is over, the coach and the teacher must conduct a coaching session.
+Following the completion of a class observation, it's essential for the coach and the teacher to engage in a coaching session.
 
-There are two ways to start a Coaching Session: right after finishing a class observation or by selecting a teacher with a incomplete session.
+There are two scenarios for starting a Coaching Session: immediately after a class observation or by selecting a teacher with an incomplete session.
 
-## After a class observation
+## After Completing a Class Observation
 
-After the class observation is performed, you can choose between starting a Coaching Session or returning to the home of the app
+Once the class observation concludes, you have the option to either start a Coaching Session or return to the app's home screen.
 
 ![Class observation complete](/img/class_observation/class_observation_complete.png)
 
-:::caution This will result in a incomplete session
-
-Choosing return to the home of the app will result in a Incomplete Session and you will need to perform a Coaching Session with the teacher as soon as possible.
-
+:::caution Incomplete Session Alert
+Opting to return to the home screen without initiating a Coaching Session results in an Incomplete Session. It's important to schedule a Coaching Session with the teacher at the earliest convenience.
 :::
 
-## Incomplete session
+## Managing Incomplete Sessions
 
-Teachers with incomplete sessions will be displayed with an alert sign at the home of the app. 
+Teachers with incomplete sessions are indicated by an alert sign on the home screen.
 
 ![Home with an incomplete session](/img/incomplete_session/home_incomplete_session.png)
 
-To perform a feedback for teachers with an incomplete session, select the teacher and resume the session.
+To provide feedback for teachers with incomplete sessions:
 
-![Teacher with incomplete session](/img/incomplete_session/teacher_profile_incomplete_session.png)
+1. Select the teacher from the home screen to resume the session.
 
-Once the session is resumed, review the observation rating and start the feedback.
+   ![Teacher with incomplete session](/img/incomplete_session/teacher_profile_incomplete_session.png)
 
-![Review class observation rating](/img/incomplete_session/review_class_observation_summary.png)
+2. Review the class observation ratings and proceed to start the feedback process.
+
+   ![Review class observation rating](/img/incomplete_session/review_class_observation_summary.png)
