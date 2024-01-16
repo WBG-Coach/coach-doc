@@ -31,7 +31,7 @@ const Docs = [
   },
   {
     img: SourceCode,
-    label: "Source code",
+    label: "Developer documentation",
     path: "/docs/code/intro",
     winPath: "docs/code/intro",
   },
