@@ -8,13 +8,15 @@ sidebar_position: 0
 
 Assuming you already have a server configured with PM2 installed, as explained in the admin panel installation topic, you now need to follow a very similar process for installing the API. Follow the step-by-step guide below:
 
-Clone the Application:
+1. Clone the Application:
 
 Begin by cloning the application to the desired location. Access the repository and clone it or download it using either SSH or HTTPS.
-Install Dependencies:
+
+2. Install Dependencies:
 
 After cloning the application, install its dependencies using Yarn. It is recommended to use NodeJS version 18.18.2. Navigate to the project's root and execute yarn install to install the required libraries.
-Define Environment Variables:
+
+3. Define Environment Variables:
 
 Once the libraries are installed, the penultimate step is to define the environment variables. Create a .env file at the root of the application and set the following variables:
 
@@ -35,6 +37,6 @@ SENDGRID_API_KEY=
 APP_NAME=कोच डिजिटल एनपी
 ```
 
-Run the Application:
+4. Run the Application:
 
 Save the file and execute yarn start. Congratulations! Your application should now be running on port 3001.
