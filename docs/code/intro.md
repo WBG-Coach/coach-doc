@@ -7,7 +7,7 @@ sidebar_position: 0
  <img width="1138" alt="Coach System Architecture" src="https://github.com/WBG-Coach/coach-doc/assets/13595853/1b835a90-75c0-4478-9ad4-608077d2f22c" />
 
 
-[Coach is the World Bank’s global initiative](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development) focused on helping countries improve in-service teacher professional development (TPD) programs and systems to accelerate learning.
+**[Coach is the World Bank’s global initiative](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development) focused on helping countries improve in-service teacher professional development (TPD) programs and systems to accelerate learning.**
 
 *Coach* encompasses support to countries to improve different forms of TPD, including one-to-one coaching, group training sessions and workshops, and other approaches, either through in-person, remote or hybrid modalities. The program has the goal of helping countries design, implement, and evaluate high-quality TPD programs and systems that align with best practice and evidence.
 
