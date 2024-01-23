@@ -2,14 +2,13 @@
 sidebar_position: 0
 ---
 
-# Architecture
+# Overview for System Administrators
 
  <img width="1138" alt="Coach System Architecture" src="https://github.com/WBG-Coach/coach-doc/assets/13595853/1b835a90-75c0-4478-9ad4-608077d2f22c" />
 
-# Overview for System Administrators
+Our suite of applications, hosted under the public GitHub organization "WBG-Coach," is open for cloning via SSH. Each application has its unique aspects, and you can find the environment variables for each in the `.env.example` files in their respective repositories.
 
-Our suite of applications, hosted under the public GitHub organization
-"WBG-Coach," is open for cloning via SSH. Each application has its unique aspects, and you can find the environment variables for each in the `.env.example` files in their respective repositories.
+The system architecture is designed and tested to run on Ubuntu Linux through a cloud provider, such as Amazon Lightsail or EC2 with S3 object storage. The system further connects with SendGrid via API for sending One-Time Password tokens. Developers may change or extend the code to connect with other services.
 
 We encourage contributions through Pull Requests. If you encounter any issues or have queries, please don't hesitate to open Issues on GitHub. We appreciate your involvement and feedback!
 
