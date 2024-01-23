@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Readme and deploy
+# Deployment Instructions
 
 ## Building
 
@@ -39,4 +39,4 @@ APP_NAME=कोच डिजिटल एनपी
 
 4. Launching the Application:
 
-Save the .env file and run yarn start. Your application should now be operational on port 3001.
+Save the ``.env` file and run `yarn start`. Your application should now be operational on port 3001.
