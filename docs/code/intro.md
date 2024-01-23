@@ -28,3 +28,9 @@ Find below the links to the various components of the Coach project on GitHub:
 - **Coach Documentation Source Code**: [https://github.com/WBG-Coach/coach-doc](https://github.com/WBG-Coach/coach-doc)
 - **Coach Download Page Source Code**: [https://github.com/WBG-Coach/coach-download](https://github.com/WBG-Coach/coach-download)
 - **Coach Admin Page Source Code**: [https://github.com/WBG-Coach/coach-admin](https://github.com/WBG-Coach/coach-admin)
+
+# Additional Resources
+
+- (Building a Mobile Application for Teacher Coaching](#)
+- (Coach: Helping Countries Accelerate Learning by Improving In-Service Teacher Professional Development](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development)
+- (World Bank Strategy to Support Teachers)[https://blogs.worldbank.org/education/realizing-promise-effective-teachers-every-child-global-platform-successful-teachers]
