@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Architecture
 
- <img width="1138" alt="Screenshot 2024-01-23 at 12 33 53" src="https://github.com/WBG-Coach/coach-doc/assets/13595853/1b835a90-75c0-4478-9ad4-608077d2f22c">
+ <img width="1138" alt="Screenshot 2024-01-23 at 12 33 53" src="https://github.com/WBG-Coach/coach-doc/assets/13595853/1b835a90-75c0-4478-9ad4-608077d2f22c"></img>
 
 # Overview for System Administrators
 
