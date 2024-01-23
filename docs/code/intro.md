@@ -6,7 +6,7 @@ sidebar_position: 0
 
  <img width="1138" alt="Screenshot 2024-01-23 at 12 33 53" src="https://github.com/WBG-Coach/coach-doc/assets/13595853/1b835a90-75c0-4478-9ad4-608077d2f22c">
 
-# Source Code Overview
+# Overview for System Administrators
 
 Our suite of applications, hosted under the public GitHub organization
 "WBG-Coach," is open for cloning via SSH. Each application has its unique aspects, and you can find the environment variables for each in the `.env.example` files in their respective repositories.
