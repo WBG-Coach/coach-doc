@@ -13,11 +13,11 @@ sidebar_position: 0
 
 Our suite of Coach Digital applications allow ministries of education or other organizations to provide guided TPD appropriate for their context, together with tools for dashboarding and data analysis. The software is made available through public GitHub organization "WBG-Coach," and is open for cloning and adaptation.
 
-This set of documentation is intended to guide developers and system administrators in installing and building their own implementations of Coach Digital. Each application has its unique aspects, and you can find the environment variables for each in the `.env.example` files in their respective repositories.
-
 The system architecture is designed and tested to run on Ubuntu Linux through a cloud provider, such as [Amazon Lightsail or EC2 with S3 object storage](https://aws.amazon.com). The system further connects with [SendGrid](https://sendgrid.com) via API for sending one-time password tokens. Developers may change or extend the code to connect with other services.
 
-We encourage contributions through Pull Requests. If you encounter any issues or have queries, please don't hesitate to open Issues on GitHub. We appreciate your involvement and feedback!
+This set of documentation is intended to guide developers and system administrators in installing and building their own implementations of Coach Digital. Each application has unique aspects and independent configurations. You can find the environment variables for each in the `.env.example` files in their respective repositories.
+
+We encourage contributions through pull requests. If you encounter any problems or have queries, please don't hesitate to open issues on GitHub. We appreciate your involvement and feedback!
 
 # Repository Links
 
