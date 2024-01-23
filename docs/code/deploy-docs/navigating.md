@@ -29,7 +29,7 @@ COUNTRY=
 
 Save the ``.env`` file and run `yarn start``. Your application should now be active on port 3000.
 
-## Creaing New Documentations
+## Creaing New Documentation
 
 Once you've cloned the project and started it on your machine, you're ready to add new documentation. Understanding this process is important:
 
