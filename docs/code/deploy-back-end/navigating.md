@@ -1,4 +1,4 @@
----
+----
 sidebar_position: 0
 ---
 
@@ -37,6 +37,6 @@ SENDGRID_API_KEY=
 APP_NAME=कोच डिजिटल एनपी
 ```
 
-4. Run the Application:
+4. Launching the Application:
 
-Save the file and execute yarn start. Congratulations! Your application should now be running on port 3001.
+Save the .env file and run yarn start. Your application should now be operational on port 3001.

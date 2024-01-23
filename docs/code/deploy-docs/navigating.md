@@ -2,27 +2,24 @@
 sidebar_position: 0
 ---
 
-# Starting the first Doc
+# Starting the First Documentation
 
 ## Building
 
-In the same logic as the administrative panel, the Coach's documentation is also a React application; however, we use an open-source framework called Docussauros. Our documentation can be easily updated with content and started on any user's machine. However, like all other applications, it also has points of attention to ensure smooth operation, both in development mode and on a server.
+Similar to the administrative panel, Coach's documentation is a React application, utilizing the open-source framework Docusaurus. This setup allows easy content updates and launching on any user's machine. However, as with all applications, certain considerations are essential for smooth operation in both development and server environments.
 
-To accomplish this, we will explain the step-by-step process of modifying the documentation and how to start it in both development and production modes. Feel free to interact with our repository and suggest improvements!
+This guide will walk you through modifying the documentation and launching it in both development and production modes. We welcome interaction with our repository and suggestions for improvements!
 
-Assuming you have already viewed the topic on starting the administrative panel, you should by now have the entire local environment set up to begin. If not, please refer to the Admin startup documentation to see our standard dependencies for starting a NodeJS application.
+If you have already set up the local environment as described in the administrative panel startup guide, you're ready to begin. If not, please refer to the Admin startup documentation for standard NodeJS application dependencies.
 
-1. Clone the Application:
+1. **Cloning the Application**: 
+   Start by cloning the application to your preferred location. Access the repository and clone or download it using SSH or HTTPS.
 
-Begin by cloning the application to the desired location. Access the repository and clone it or download it using either SSH or HTTPS.
+2. **Installing Dependencies**: 
+   After cloning, install the application's dependencies with Yarn. NodeJS version 18.18.2 is recommended. In the project root, execute `yarn install` to install all necessary libraries.
 
-2. Install Dependencies:
-
-After cloning the application, install its dependencies using Yarn. It is recommended to use NodeJS version 18.18.2. Navigate to the project's root and execute yarn install to install the required libraries.
-
-3. Define Environment Variables:
-
-Once the libraries are installed, the penultimate step is to define the environment variables. Create a .env file at the root of the application and set the following variables:
+3. **Configuring Environment Variables**: 
+   Following the installation of libraries, set up the environment variables. Create a `.env` file at the application's root with the following:
 
 ```bash
 COUNTRY=
@@ -30,14 +27,15 @@ COUNTRY=
 
 4. Run the Application:
 
-Save the file and execute yarn start. Congratulations! Your application should now be running on port 3000.
+Save the ``.env`` file and run `yarn start``. Your application should now be active on port 3000.
 
-## New Documentations
+## Creaing New Documentations
 
-After cloning the project and successfully starting it on your machine, you are now ready to create new documentations. However, you should first understand how this process works.
+Once you've cloned the project and started it on your machine, you're ready to add new documentation. Understanding this process is important:
 
-Inside the Docs folder, you will find all available topics in the documentation, all in MD style, where any changes are automatically reflected in the development environment.
+* Docs Folder:
+    Here, you'll find all existing documentation topics, formatted in Markdown. Any changes made are automatically reflected in the development environment.
+* SRC Folder:
+    This contains pages rendered in TSX (React's default language). Altering files in SRC is not recommended unless you're proficient in ReactJS.
 
-In addition to the Docs folder, we have the SRC folder where all pages rendered in TSX (the default language of React) are located. We do not recommend altering the files inside SRC unless you have knowledge of ReactJS.
-
-If you wanna, access the [Docussauros Official Docs](https://docusaurus.io/) to know more about Docussauros
+For more information on Docusaurus, visit the [Docussauros Official Docs](https://docusaurus.io/).

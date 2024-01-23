@@ -2,45 +2,51 @@
 sidebar_position: 0
 ---
 
-# Readme and deploy
+# Readme and Deployment Instructions
 
-## Building
+## Building the Coach Application
 
-Currently, the Coach application operates with three major functionalities, each serving its own purpose. In this topic, we will focus on the administrative panel, discussing it in technical terms and providing clear instructions on deploying the application end-to-end.
+The Coach application features three key functionalities, each with a distinct role. This guide focuses on the administrative panel, covering its technical aspects and detailed deployment instructions.
 
-The Coach administrative panel is entirely developed in ReactJs and can be initiated either locally or on a cloud server. However, certain precautions must be taken when starting this application. To assist with this, we recommend following the step-by-step guide below:
+Developed in ReactJs, the Coach administrative panel can be launched either locally or on a cloud server. Follow these steps for a successful setup:
 
-1. First, you need to clone the application where you want to start it. To do this, access the repository and clone it or download it via SSH or HTTPS.
+1. **Cloning the Application**: 
+   Begin by cloning the application to your chosen location. Access the repository and clone or download it using SSH or HTTPS.
 
-2. After cloning the application, you should install its dependencies using Yarn. We recommend using NodeJS 18.18.2. Navigate to the project's root and execute Yarn Install to install the libraries.
+2. **Installing Dependencies**: 
+   Post-cloning, install the application's dependencies using Yarn. NodeJS version 18.18.2 is recommended. Navigate to the project's root and execute `Yarn Install` to install the required libraries.
 
-3. After installing the libraries, the penultimate step is to define the environment variables. To do this, create a .ENV file at the root of the application with the following variables:
+3. **Configuring Environment Variables**: 
+   Prior to launching, create a `.ENV` file at the application's root with these variables:
 
-```bash
-   VITE_API_URL=[EX: http://localhost:3000/np/api]
-   VITE_COUNTRY=[EX: np]
-   VITE_MAX_REGION_LEVEL=[EX: 2]
+   ```bash
+   VITE_API_URL=[Example: http://localhost:3000/np/api]
+   VITE_COUNTRY=[Example: np]
+   VITE_MAX_REGION_LEVEL=[Example: 2]
+
 ```
 
-4. Save your file and execute Yarn Start. Congratulations! Your application should now be running on port 3000.
+4. **Launching the Application**:
+   After saving the ``.ENV`` file, run `Yarn Start``. The application should now be operational on port 3000.
 
-## Deploy
+## Deployment on Ubuntu 22.04
 
-Assuming you already have a virtual machine with Ubuntu 22.04, you should also have certain dependencies installed, such as git, pm2, and NodeJS. If you have any doubts about the installation process, refer to the Troubleshooting section.
+Ensure your virtual machine running Ubuntu 22.04 has necessary dependencies like git, pm2, and NodeJS installed. Consult the Troubleshooting section for any installation queries.
 
-There are various methods for publishing a NODEJS application. In this guide, we will explain how to make it public and accessible through a server running Ubuntu 22.04.
+Deployment involves:
 
-The first step to make it public is to ensure that it is running as described in the previous section. If your Yarn start command has been successfully executed, cancel the command by pressing Ctrl + C or Command + C. Now, we will use another library to start our application.
+1. **Verifying Local Execution**:
+   Ensure the application is running as previously outlined. To halt it, press Ctrl + C or Command + C.
 
-Similar to how we executed the application with Yarn, we will now run it with PM2. This library is responsible for running applications in the background on the server, ensuring vitality and load management without occupying the main thread.
+2. **Utilizing PM2 for Deployment**:
+   Instead of Yarn, deploy the application with PM2, which runs applications in the background efficiently. Enter the command:
 
-Enter the following command:
 
 ```bash
 pm2 start yarn --interpreter bash --name coach-admin -- start
 ```
 
-After this, your application should have been started on port 3000 and should be available for public access.
+The application should now be running on port 3000 and publicly accessible.
 
 ## Troubleshooting
 
@@ -54,17 +60,16 @@ sudo npm install pm2@latest -g
 
 ### GIT Installation
 
-the general process for installing Git on Ubuntu should remain the same or be very similar across different versions. Here are the steps to install Git on Ubuntu:
+To install Git on Ubuntu:
 
-Open a terminal window. You can do this by pressing Ctrl + Alt + T or searching for "Terminal" in the applications menu.
-
-Update the package list to ensure you have the latest information about available packages. Type the following command and press Enter:
+1. Open a terminal (Ctrl + Alt + T or through the applications menu).
+2. Update the package list:
 
 ```bash
 sudo apt update
 ```
 
-Install Git by running the following command:
+3. Install Git:
 
 ```bash
 sudo apt install git
