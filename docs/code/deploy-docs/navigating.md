@@ -27,7 +27,7 @@ COUNTRY=
 
 4. Run the Application:
 
-Save the ``.env`` file and run `yarn start``. Your application should now be active on port 3000.
+Save the `.env` file and run `yarn start`. Your application should now be active on port 3000.
 
 ## Creaing New Documentation
 
