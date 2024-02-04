@@ -40,3 +40,74 @@ APP_NAME=कोच डिजिटल एनपी
 4. Launching the Application:
 
 Save the `.env` file and run `yarn start`. Your application should now be operational on port 3001.
+
+## Email Authentication Configuration
+
+This document outlines the necessary steps to configure DMARC (Domain-based Message Authentication, Reporting, and Conformance), DKIM (DomainKeys Identified Mail), and SPF (Sender Policy Framework) for email authentication.
+
+### Prerequisites
+
+Before proceeding with the configuration, ensure the following:
+
+- Access to your domain's DNS settings.
+- Understanding of DMARC, DKIM, and SPF concepts.
+- Permissions to make changes to your domain's DNS records.
+
+### Configuration Steps
+
+#### DMARC Configuration
+
+1. **Access DNS Settings**: Log in to your domain registrar or DNS hosting provider's website.
+
+2. **Add DMARC Record**: Create a new DNS TXT record with the following values:
+
+   ```
+   Name: _dmarc.yourdomain.com
+   Value: "v=DMARC1; p=none; rua=mailto:your@email.com; ruf=mailto:your@email.com; sp=none; fo=1;"
+   ```
+
+   Replace `yourdomain.com` with your actual domain and `your@email.com` with your email address for receiving DMARC reports.
+
+3. **Publish Changes**: Save the changes to publish the DMARC record.
+
+#### DKIM Configuration
+
+1. **Generate DKIM Keys**: Follow your email service provider's instructions to generate DKIM keys for your domain.
+
+2. **Add DKIM Record**: Once you have the DKIM keys, add a new DNS TXT record with the following values:
+
+   ```
+   Name: selector._domainkey.yourdomain.com
+   Value: "v=DKIM1; k=rsa; p=<public_key>"
+   ```
+
+   Replace `yourdomain.com` with your actual domain and `<public_key>` with your DKIM public key.
+
+3. **Publish Changes**: Save the changes to publish the DKIM record.
+
+#### SPF Configuration
+
+1. **Access DNS Settings**: Log in to your domain registrar or DNS hosting provider's website.
+
+2. **Add SPF Record**: Create a new DNS TXT record with the following values:
+
+   ```
+   Name: yourdomain.com
+   Value: "v=spf1 include:_spf.your-email-provider.com ~all"
+   ```
+
+   Replace `yourdomain.com` with your actual domain and `_spf.your-email-provider.com` with the SPF record provided by your email service provider.
+
+3. **Publish Changes**: Save the changes to publish the SPF record.
+
+### Verification
+
+After configuring DMARC, DKIM, and SPF, verify the configurations using the following methods:
+
+- **DMARC**: Use DMARC reporting tools to monitor DMARC authentication results and adjust the policy as needed.
+- **DKIM**: Send test emails and check the DKIM signature in the email headers using email authentication tools or services.
+- **SPF**: Send test emails and analyze the email headers to confirm SPF authentication using email authentication tools or services.
+
+### Conclusion
+
+By following the steps outlined in this document, you can configure DMARC, DKIM, and SPF for email authentication, ensuring improved email deliverability and security for your domain.
