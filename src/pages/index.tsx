@@ -26,8 +26,8 @@ const Docs = [
   {
     img: Laptop,
     label: "How to use Admin pannel",
-    path: "/docs/docs/admin/accessing",
-    winPath: "docs/docs/admin/accessing",
+    path: "/docs/admin/accessing",
+    winPath: "docs/admin/accessing",
   },
   {
     img: SourceCode,
