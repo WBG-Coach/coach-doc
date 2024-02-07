@@ -30,6 +30,6 @@ Find below the links to the various components of the Coach project on GitHub:
 
 # Additional Resources
 
-- [Building a Mobile Application for Teacher Coaching](#)
-- [Coach: Helping Countries Accelerate Learning by Improving In-Service Teacher Professional Development](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development)
+- [Building a Mobile Application for Teacher Coaching](https://thedocs.worldbank.org/en/doc/2df31ff42d8922d9c52b01f946867f67-0140022024/original/MOBILE-application-how-to-note.pdf) (World Bank)
+- [Coach: Helping Countries Accelerate Learning by Improving In-Service Teacher Professional Development](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development) (World Bank)
 - [World Bank Strategy to Support Teachers](https://blogs.worldbank.org/education/realizing-promise-effective-teachers-every-child-global-platform-successful-teachers)
