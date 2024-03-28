@@ -8,7 +8,7 @@ sidebar_position: 0
 
 **[Coach is the World Bank’s global initiative](https://www.worldbank.org/en/topic/teachers/brief/coach-helping-countries-accelerate-learning-by-improving-in-service-teacher-professional-development) focused on helping countries improve in-service teacher professional development (TPD) programs and systems to accelerate learning.**
 
-*Coach* encompasses support to countries to improve different forms of TPD, including one-to-one coaching, group training sessions and workshops, and other approaches, either through in-person, remote or hybrid modalities. The program has the goal of helping countries design, implement, and evaluate high-quality TPD programs and systems that align with best practice and evidence.
+_Coach_ encompasses support to countries to improve different forms of TPD, including one-to-one coaching, group training sessions and workshops, and other approaches, either through in-person, remote or hybrid modalities. The program has the goal of helping countries design, implement, and evaluate high-quality TPD programs and systems that align with best practice and evidence.
 
 Our suite of Coach Digital applications allow ministries of education or other organizations to provide guided TPD appropriate for their context, together with tools for dashboarding and data analysis. The software is made available through public GitHub organization "WBG-Coach," and is open for cloning and adaptation.
 
@@ -17,6 +17,23 @@ The system architecture is designed and tested to run on Ubuntu Linux through a 
 This set of documentation is intended to guide developers and system administrators in installing and building their own implementations of Coach Digital. Each application has unique aspects and independent configurations. You can find the environment variables for each in the `.env.example` files in their respective repositories.
 
 We encourage contributions through pull requests. If you encounter any problems or have queries, please don't hesitate to open issues on GitHub. We appreciate your involvement and feedback!
+
+# Minimum requirements
+
+Before starting the process to install Coach on a server, we need to ensure that all minimum requirements are checked and functioning properly on the server. These requirements is:
+
+- CPU: minimum 2 cores
+- RAM: minimum 2GB
+- Storage: minimum 10GB
+- Operating System: Ubuntu 22
+- Virtualization Support: N/A
+
+A little more about the applications we use:
+
+- Frontend: Typescript, React
+- Backend: Typescript, Node.js, express
+- Mobile: React Native
+- Other Tools Required: Docker, Postgres
 
 # Repository Links
 
