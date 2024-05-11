@@ -37,7 +37,27 @@ SENDGRID_API_KEY=
 APP_NAME=कोच डिजिटल एनपी
 ```
 
-4. Launching the Application:
+4. Execute database migrations:
+
+After setting all environment variables, especially the database keys, you will be ready to execute the migrations. Running the migration installation is crucial and cannot be avoided under any circumstances.
+
+To install, you should simply execute the following command in the root folder of the application:
+
+If you have chosen to use npm:
+
+```bash
+npm run migration:run
+```
+
+Or using yarn:
+
+```bash
+yarn migration:run
+```
+
+After this command, wait for the terminal to confirm that everything has been executed, and to ensure, access your database with a viewer and verify if various tables have been created.
+
+5. Launching the Application:
 
 Save the `.env` file and run `yarn start`. Your application should now be operational on port 3001.
 
