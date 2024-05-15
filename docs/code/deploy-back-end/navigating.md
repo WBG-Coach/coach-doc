@@ -37,7 +37,7 @@ SENDGRID_API_KEY=
 APP_NAME=कोच डिजिटल एनपी
 ```
 
-4. Execute database migrations:
+5. Execute database migrations:
 
 After setting all environment variables, especially the database keys, you will be ready to execute the migrations. Running the migration installation is crucial and cannot be avoided under any circumstances.
 
@@ -57,9 +57,19 @@ yarn migration:run
 
 After this command, wait for the terminal to confirm that everything has been executed, and to ensure, access your database with a viewer and verify if various tables have been created.
 
-5. Launching the Application:
+7. Create the first admin user into database:
 
-Save the `.env` file and run `yarn start`. Your application should now be operational on port 3001.
+After executing the migrations and creating the tables, you just need to connect to the database and create the first admin user of the application by running the command below:
+
+```sql
+insert into "public"."user" ("email", "role") values ('your@email.com', 'admin');
+```
+
+Remember to replace 'your@email.com' with your administrator email, and after starting the application, just click on 'forgot my password' to recover it and create a new one.
+
+8. Launching the Application:
+
+Run `yarn start`. Your application should now be operational on port 3001.
 
 ## Email Authentication Configuration
 
