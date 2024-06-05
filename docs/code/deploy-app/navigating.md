@@ -16,7 +16,7 @@ The process for generating a publishing key varies by operating system. Below ar
 
 On Windows, run `keytool` from `C:\Program Files\Java\jdkx.x.x_x\bin` as an administrator:
 
-```bash
+````bash
 keytool -genkeypair -v -storetype PKCS12 -keystore my-upload-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
 
 This command will prompt you for keystore and key passwords and Distinguished Name fields for your key, generating the keystore as my-upload-key.keystore.
@@ -27,7 +27,7 @@ On macOS, locate your JDK bin folder using:
 
 ```bash
 /usr/libexec/java_home
-```
+````
 
 It will output the directory of the JDK, which will look something like this:
 
@@ -89,7 +89,17 @@ android {
 
 ## Generating the first release AAB
 
-Run the following command in a terminal:
+Before generating your first AAB, it is extremely important to define the application's environment variables. All these variables should be defined in a file created at the root named ".env".
+
+Currently, each repository has a file called .env.example. Create a copy of this file named ".env" and modify the value of each variable to match your environment's settings.
+
+Example:
+
+```bash
+API_URL=https://www.myawensomeapi.com.br/
+```
+
+After the creation of this file run the following command in a terminal:
 
 ```bash
 npx react-native build-android --mode=release
